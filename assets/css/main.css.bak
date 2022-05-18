@@ -3457,7 +3457,7 @@ input, select, textarea {
 			letter-spacing: 0.1em;
 			line-height: 1.5;
 			text-transform: uppercase;
-			text-align: center;
+			
 		}
 
 		@media screen and (max-width: 1280px) {
